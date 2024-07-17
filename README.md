@@ -1,8 +1,10 @@
-# React + Vite
+#TIC-TAC-TOE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**website:** [https://tic-tac-toe-gules-phi.vercel.app](https://tic-tac-toe-gules-phi.vercel.app)
 
-Currently, two official plugins are available:
+**how to play:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. go to the website using given link
+2. start playing
+3. after complete reload the page
+4. repeat - have fun
