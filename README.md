@@ -1,4 +1,4 @@
-#TIC-TAC-TOE
+# TIC-TAC-TOE
 
 **website:** [https://tic-tac-toe-gules-phi.vercel.app](https://tic-tac-toe-gules-phi.vercel.app)
 
