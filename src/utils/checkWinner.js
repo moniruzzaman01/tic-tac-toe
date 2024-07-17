@@ -13,10 +13,8 @@ export const checkWinner = (squares) => {
   for (let i = 0; i < probableResult.length; i++) {
     const [a, b, c] = probableResult[i];
 
-    if (squares[a] && squares[a] == squares[b] && squares[a] == squares[c]) {
-      console.log("true");
+    if (squares[a] && squares[a] == squares[b] && squares[a] == squares[c])
       return true;
-    }
   }
   return null;
 };
